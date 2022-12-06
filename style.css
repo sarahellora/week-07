@@ -1,0 +1,31 @@
+body {
+    background-color: lightskyblue;
+  }
+
+  ul{
+    color:black
+
+  }
+  li{
+    color: black
+  
+}
+   .homeTitle{
+    color:black
+
+}
+ .homeBody{
+
+    background-color: grey;
+ }
+ .contactBody{
+    background-color: black;
+
+}
+ a{
+  color:white
+
+}
+ .contactTitle{
+    color:lightskyblue
+ }
